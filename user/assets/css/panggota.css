@@ -1,0 +1,24 @@
+.main-container {
+    margin: auto;
+    border: 0px;
+    height: 100%;
+    width: 87%;
+    padding-top: 50%;
+    position: absolute;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 6.4%;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 5px 10px 29px 0 rgba(0, 0, 0.2, 0.2);
+}
+
+.main-container iframe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}

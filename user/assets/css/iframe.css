@@ -1,0 +1,23 @@
+.main-container {
+    max-width: 800%;
+    padding-top: 130%;
+    position: relative;
+    margin-top: -1%;
+    margin-bottom: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 5px 10px 29px 0 rgba(0, 0, 0.2, 0.2);
+    
+}
+
+.main-container iframe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}
